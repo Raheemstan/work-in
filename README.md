@@ -8,6 +8,4 @@ routine
 ***
 
 * Workout sampling
-* Add music playlist
-* Make cross platform
 * Deploy on web
